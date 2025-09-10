@@ -8,7 +8,7 @@ const Header = () => {
       <div className="flex flex-row">
         <div className="flex flex-row gap-2 px-4 items-center justify-center">
           <IconGrid width={16} height={16} fill="var(--color-blue)" />
-          <p className="text-xs font-normal text-blue">Bảng giá</p>
+          <p className="text-xs font-normal text-blue">Bảng giá123</p>
         </div>
       </div>
     </header>
