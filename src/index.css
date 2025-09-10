@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #020210;
+  --color-bg-2: #020210;
+  --color-bg-body: #14111d;
+  --color-white: #ffffff;
+  --color-bg-nav: #1c192c;
+  --color-half_white: #ececec;
+  --color-white-50: rgba(255, 255, 255, 0.5);
+  --color-bg-tbl: #182649;
+  --color-bg-th: #14101d;
+  --color-bg-th-odd: #211d34;
+  --color-bg-th-even: #1c192c;
+  --color-bg-th-high-light: #181625;
+  --color-black: #05040f;
+  --color-high-light-odd: #1c1a2b;
+  --color-high-light-even: #1c1a2b;
+  --color-cl-border: #2c2935;
+  --color-hover-td: #353045;
+  --color-bg-card-chart: #020210;
+  --color-bg-btn-nav: #1c192c;
+  --color-bg-form-search: #1c192c;
+  --color-bg-form-search-2: #000000;
+  --color-red: #fd1515;
+  --color-green: #30e820;
+  --color-ref: #fbd82d;
+  --color-ceil: #e64dff;
+  --color-floor: #2ecdff;
+  --color-bg-red: #c0002e;
+  --color-bg-green: #3db055;
+  --color-bg-ref: #d69000;
+  --color-bg-ceil: #e64dff;
+  --color-bg-floor: #0030cc;
+  --color-primary: #2279ff;
+  --color-blue: #2279ff;
+  --color-bg-form-theme: #1b1912;
+  --color-cl-nav-link: #ececec;
+  --color-bg-panel-trade: #14111d;
+  --color-br-1: #232532;
+  --color-panel-trade-asset: rgba(40, 43, 47, 0.9);
+  --color-form-search-head: #3d4054;
+  --color-asset-account-overview: #3a354f;
+  --color-bg-asset-order: rgba(40, 43, 47, 0.9);
+}
